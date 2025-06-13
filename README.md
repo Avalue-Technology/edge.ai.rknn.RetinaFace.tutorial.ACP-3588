@@ -3,6 +3,7 @@ About RKNN Model Zoo - RetinaFace Model with Live USB Camera Tutorial.
 
 # Requirements
 This application has been installed in the following environment:
+- ACP-3588
 - Debian 11 aarch64
 - Python 3.9.2
 - librknnrt version: 1.6.0
