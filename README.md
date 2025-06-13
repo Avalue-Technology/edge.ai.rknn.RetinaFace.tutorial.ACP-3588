@@ -8,7 +8,7 @@ This application has been installed in the following environment:
 - librknnrt version: 1.6.0
 - RKNN Toolkit2 Lite
 
-# Reference.
+# Reference
 [RKNPU2 Runtime for Linux aarch64 (v1.5.2)](https://github.com/rockchip-linux/rknpu2/tree/master/runtime/RK356X/Linux/librknn_api/aarch64 "RKNPU2 Runtime for Linux aarch64")
 **/usr/lib/librknn_api.so**
 **/usr/lib/librknn_api.so**
