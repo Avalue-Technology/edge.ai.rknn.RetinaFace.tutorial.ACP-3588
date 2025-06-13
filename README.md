@@ -15,7 +15,7 @@ This application has been installed in the following environment:
 
 **/usr/lib/librknn_api.so**
 
-**RKNN Toolkit2 List**
+**RKNN Toolkit2 Lite**
 
 Please run: pip install rknn_toolkit_lite2-1.6.0-cp39-cp39-linux_aarch64.whl to install RKNN Toolkit2 Lite on the target device.
 
