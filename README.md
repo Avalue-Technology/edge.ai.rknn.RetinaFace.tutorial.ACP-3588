@@ -10,10 +10,13 @@ This application has been installed in the following environment:
 
 # Reference
 [RKNPU2 Runtime for Linux aarch64 (v1.5.2)](https://github.com/rockchip-linux/rknpu2/tree/master/runtime/RK356X/Linux/librknn_api/aarch64 "RKNPU2 Runtime for Linux aarch64")
+
 **/usr/lib/librknn_api.so**
+
 **/usr/lib/librknn_api.so**
 
 **RKNN Toolkit2 List**
+
 Please run: pip install rknn_toolkit_lite2-1.6.0-cp39-cp39-linux_aarch64.whl to install RKNN Toolkit2 Lite on the target device.
 
 # Application Dependency
